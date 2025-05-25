@@ -1,0 +1,39 @@
+{
+  "version" : "5.4.0.v202411251357",
+  "projects" : [ {
+    "name" : "Assignment2_DataCleaning",
+    "active" : false,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "Assignment2_DataCleaning"
+    }
+  }, {
+    "name" : "Assignment2_DataCleaning1",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "Assignment2_DataCleaning1"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "Assignment2_DataCleaning",
+    "timeUsed" : "2025-05-19T12:23:45.6647876+10:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "Assignment2_DataCleaning"
+    }
+  }, {
+    "name" : "Assignment2_DataCleaning1",
+    "timeUsed" : "2025-05-21T21:08:00.1716384+10:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "Assignment2_DataCleaning1"
+    }
+  } ]
+}
